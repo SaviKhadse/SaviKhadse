@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I am Savita Khadse, a passinate coder hold over 8 years of experience in software industry. Currently working as Data Engineer using technologies as SQL, Python and AWS (Amazon Web Services Cloud).
+You can reach me at savitakhadse@gmail.com or www.linkedin.com/in/savita-khadse-21484653/
 
 <!--
 **SaviKhadse/SaviKhadse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
